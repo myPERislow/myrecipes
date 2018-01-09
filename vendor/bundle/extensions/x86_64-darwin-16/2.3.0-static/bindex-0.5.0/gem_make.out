@@ -1,0 +1,15 @@
+current directory: /Users/zxbp2w/Desktop/webcamp/myrecipes/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+/Users/zxbp2w/.rbenv/versions/2.3.1/bin/ruby -r ./siteconf20180109-10738-i8rfzb.rb extconf.rb
+creating Makefile
+
+current directory: /Users/zxbp2w/Desktop/webcamp/myrecipes/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+
+current directory: /Users/zxbp2w/Desktop/webcamp/myrecipes/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+compiling cruby.c
+linking shared-object bindex/cruby.bundle
+
+current directory: /Users/zxbp2w/Desktop/webcamp/myrecipes/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20180109-10738-17eqp9c/bindex
